@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS machinemonitors
+CHARACTER SET 'utf8mb4'
